@@ -11,41 +11,41 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    name: "It Took Me By Suprise",
+    artist: "Maria Mena",
+    img: "suprised-1",
+    src: "suprised-1",
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
-    img: "music-2",
-    src: "music-2"
+    name: "I Forgot That You Existed",
+    artist: "Taylor Swift",
+    img: "suprised-2",
+    src: "suprised-2",
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    name: "Blinding Lights",
+    artist: "The Weeknd",
+    img: "suprised-3",
+    src: "suprised-3",
   },
   {
     name: "Hardwind - Want Me",
     artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    img: "suprised-4",
+    src: "suprised-4",
   },
-  {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
-  },
-  {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
-  },
+  // {
+  //   name: "Jim - Sun Goes Down",
+  //   artist: "Jim Yosef x Roy",
+  //   img: "suprised-5",
+  //   src: "suprised-5",
+  // },
+  // {
+  //   name: "Lost Sky - Vision NCS",
+  //   artist: "NCS Release",
+  //   img: "suprised-6",
+  //   src: "suprised-6",
+  // },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
