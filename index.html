@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>JS Face Detection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      canvas {
+        position: absolute;
+      }
+
+      iframe {
+        margin-top: 20px;
+      }
+    </style>
+    <script defer src="face-api.min.js"></script>
+    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="song.js"></script>
+  </head>
+
+  <body>
+    <video id="video" width="1080" height="720" autoplay muted></video>
+    <div>
+      <button id="captureButton">Capture and Detect Emotion</button>
+    </div>
+  </body>
+</html>
