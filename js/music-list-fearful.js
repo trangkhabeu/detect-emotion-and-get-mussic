@@ -11,10 +11,10 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    name: "Fearless Pt. II",
+    artist: "Various Artists",
+    img: "music-13",
+    src: "music-13"
   },
   {
     name: "Ikson Anywhere – Ikson",

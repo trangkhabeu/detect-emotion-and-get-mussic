@@ -11,40 +11,64 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    name: "Leave The Door Open",
+    artist: "Bruno Mars",
+    img: "happy-1",
+    src: "happy-1",
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
-    img: "music-2",
-    src: "music-2"
+    name: "Dynamite",
+    artist: "BTS",
+    img: "happy-2",
+    src: "happy-2",
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    name: "Levitating (feat. DaBaby)",
+    artist: "Dua Lipa",
+    img: "happy-3",
+    src: "happy-3",
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    name: "Kiss Me More (feat. SZA)",
+    artist: "Doja Cat",
+    img: "happy-4",
+    src: "happy-4",
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
+    name: "Perfect",
+    artist: "Ed Sheeran",
+    img: "happy-5",
+    src: "happy-5",
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    name: "GIRL LIKE ME",
+    artist: "Black Eyed Peas",
+    img: "happy-6",
+    src: "happy-6",
+  },
+  {
+    name: "We Need Love - Cabu Remix",
+    artist: "Cabu",
+    img: "happy-7",
+    src: "happy-7",
+  },
+  {
+    name: "Dance Monkey",
+    artist: "Tones And I",
+    img: "happy-8",
+    src: "happy-8",
+  },
+  {
+    name: "Uptown Funk (feat. Bruno Mars)",
+    artist: "Mark Ronson",
+    img: "happy-9",
+    src: "happy-9",
+  },
+  {
+    name: "Sugar",
+    artist: "Maroon 5",
+    img: "happy-10",
+    src: "happy-10",
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
